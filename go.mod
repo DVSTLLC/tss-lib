@@ -16,7 +16,7 @@ require (
 	github.com/otiai10/primes v0.0.0-20180210170552-f6d2a1ba97c4
 	github.com/pkg/errors v0.8.1
 	github.com/stretchr/testify v1.3.0
-	golang.org/x/sys v0.0.0-20190712062909-fae7ac547cb7 // indirect
+	golang.org/x/sys v0.1.0 // indirect
 )
 
 replace github.com/agl/ed25519 => github.com/binance-chain/edwards25519 v0.0.0-20200305024217-f36fc4b53d43
